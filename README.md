@@ -12,4 +12,5 @@ Sekarang berikan saya penjelasan yang lengkap pada sub judul " ". Catat, saya ti
 Chat GPT tolong tambahkan kata kata lagi pada kalimat di bawah ini :
 Sekarang ubah ke bahasa Inggris :
 Buatkan saya penjelasan artikel yang lengkap pada paragraf yang panjang mengenai sosok .
+Berikan saya saran judul artikel tutorial microsoft word dengan kata di depan nya "cara".
 ```
