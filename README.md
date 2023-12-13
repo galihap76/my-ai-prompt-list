@@ -13,4 +13,9 @@ Chat GPT tolong tambahkan kata kata lagi pada kalimat di bawah ini :
 Sekarang ubah ke bahasa Inggris :
 Buatkan saya penjelasan artikel yang lengkap pada paragraf yang panjang mengenai sosok .
 Berikan saya saran judul artikel tutorial microsoft word dengan kata di depan nya "cara".
+Chat GPT berikan saya saran judul karya ilmiah atau jurnal yang membahas pengaruh kecerdasan buatan dalam perkembangan teknologi informasi pada face recognition.
+Berikan saya pendahuluan maupun latar belakang dalam judul Optimasi Sistem Pengenalan Wajah melalui Integrasi Kecerdasan Buatan dalam Teknologi Informasi.
+Berikan perumusan masalah nya.
+Berikan saya tujuan penelitian ini.
+Tolong di ringkas saja secara pendek menjadi paragraf kesatuan.
 ```
